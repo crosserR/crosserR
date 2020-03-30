@@ -3,7 +3,7 @@
         city:"japan",
         country:"japan",
         image:"japan",
-        ip:"128.199.178.173",
+        ip:"crosserr.ml",
         port:443,
         password:"test001,123123",
         active:"",
@@ -13,7 +13,7 @@
         city:"hongkong",
         country:"hongkong",
         image:"hongkong",
-        ip:"128.199.178.173",
+        ip:"crosserr.ml",
         port:443,
         password:"test001,123123",
         active:"",
@@ -23,18 +23,18 @@
         city:"unitedstates",
         country:"unitedstates",
         image:"unitedstates",
-        ip:"128.199.178.173",
+        ip:"tj.crosserr.ga",
         port:443,
-        password:"test001,123123",
+        password:"user001,123123",
         active:"",
-        signal:"c"
+        signal:"a"
     },
 
      {
         city:"singapore",
         country:"singapore",
         image:"singapore",
-        ip:"128.199.178.173",
+        ip:"crosserr.ml",
         port:443,
         password:"test001,123123",
         active:"",
@@ -44,7 +44,7 @@
         city:"hongkong",
         country:"hongkong",
         image:"hongkong",
-        ip:"128.199.178.173",
+        ip:"crosserr.ml",
         port:443,
         password:"test001,123123",
         active:"",
@@ -54,10 +54,10 @@
         city:"unitedkingdom",
         country:"unitedkingdom",
         image:"unitedkingdom",
-        ip:"128.199.178.173",
+        ip:"tj.crosserr.ga",
         port:443,
-        password:"test001,123123",
+        password:"user001,123123",
         active:"",
-        signal:"c"
+        signal:"a"
     }
 ]
